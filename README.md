@@ -17,7 +17,7 @@ icon-512.svg    ← icona app 512×512
 2. Crea un nuovo repository pubblico, es. `zardoxthesia`
 3. Carica tutti i file di questa cartella nel repository
 4. Vai su **Settings → Pages → Source: main branch / root**
-5. L'app sarà disponibile su `https://tuonome.github.io/zardoxthesia/`
+5. L'app sarà disponibile su `https://zardox-lab.github.io/zardoxthesia/`
 
 ---
 
